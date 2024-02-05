@@ -1,0 +1,25 @@
+{
+  "name": "thiago",
+  "displayName": "Thiago-Dark-Color-Theme",
+  "description": "Meu primero teste  de tema escuro.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ThiagoGMota/VS_Theme_DarkColor"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Thiago Dark Color",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark-color-theme.json"
+      }
+    ]
+  }
+}
